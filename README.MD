@@ -1,0 +1,1 @@
+This is a simplified version of the card game 'Blackjack' writted in Python 3
