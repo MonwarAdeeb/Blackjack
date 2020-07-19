@@ -1,6 +1,7 @@
 import random
 
-# Declaring variaables
+# Declaring Suits, Ranks and Values of the Ranks
+
 global suits
 suits = ("Hearts", "Diamonds", "Spades", "Clubs")
 global ranks
