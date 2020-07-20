@@ -1,3 +1,5 @@
+This is a simplified version of the card game 'Blackjack'!
+
 This project is built using:
 
 Language : Python 3
