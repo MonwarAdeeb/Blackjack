@@ -2,6 +2,8 @@ import random
 
 # Declaring Suits, Ranks and Values of the Ranks
 
+global playing
+playing = True
 global suits
 suits = ("Hearts", "Diamonds", "Spades", "Clubs")
 global ranks

@@ -19,11 +19,11 @@ class Deck():
 
         return "The deck has: " + deck_comp
 
-
+    # Suffles the deck
     def shuffle(self):
         Variables.random.shuffle(self.deck)
 
-
+    # Deals a single card
     def deal(self):
         single_card = self.deck.pop()
         return single_card
