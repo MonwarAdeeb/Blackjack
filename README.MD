@@ -10,4 +10,4 @@ Text Editor : Visual Studio Code with Python extension enabled
 
 How to run:
 
-Run the 'Gameplay.py' file in VS Code terminal and play!
+Run the 'Gameplay.py' file in VS Code terminal or CMD and play!
